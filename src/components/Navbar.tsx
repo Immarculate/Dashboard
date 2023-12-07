@@ -14,10 +14,7 @@ const Navbar = () => {
         <div className='flex justify-center items-center ml-[7rem]'>
           <span className='test-[16px] underline cursor-pointer hover:text-sky-400'>Docs</span>
           <img src='/assets/bell.png' alt='bell' className='h-6 w-6 ml-4' />
-          {/* <Avatar className=' ml-4'>
-            <AvatarImage src="https://github.com/shadcn.png" />
-            <AvatarFallback>CN</AvatarFallback>
-          </Avatar> */}
+          
           <span className=' ml-4'>Ajibola</span>
           <img src='/assets/dropdown.png' alt='avarta' className='h-[20px] ml-2 w-[20px]' />
         </div>

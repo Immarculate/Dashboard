@@ -158,8 +158,7 @@ const UsersList = () => {
           )}
         </table>
         {/* {users.map((user) => (
-          <div className='flex w-[62.4rem] justify-between border-b h-12 items-center' key={user.id}>
-           
+          
             <button className={`text-[14px] h-[30px] bg-${statusColorMap[user.statusCode]}-100 border rounded-full`}>
               <h2 className={`mx-2 text-${statusColorMap[user.statusCode]}-950`}>{user.statusCode}</h2>
             </button>

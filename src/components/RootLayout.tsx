@@ -1,7 +1,4 @@
-// import Buttombar from '@/components/shared/Buttombar';
-// import LeftSidebar from '@/components/shared/Leftsidebar';
-// import Topbar from '@/components/shared/Topbar';
-import { Outlet } from 'react-router-dom';
+
 import Sidebar from './Sidebar';
 import Navbar from './Navbar';
 

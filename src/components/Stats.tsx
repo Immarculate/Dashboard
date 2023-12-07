@@ -1,4 +1,4 @@
-// import React from 'react';
+
 import { stats } from '../constants';
 
 const Stats = () => {
